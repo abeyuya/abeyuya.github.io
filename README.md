@@ -17,25 +17,30 @@ abeyuyaのプロフィールを紹介するページです。
 
 ### サーバサイド
 
-- ruby on rails
+- Ruby on Rails
   - rspec
 - serverless framework
-  - node.js
+  - Node.js
 
 ### インフラ
 
 - AWS
   - terraform
 - firebase
+  - firestore
+  - functions
+    - Node.js, Typescript
 
-### iOS
+### アプリ
 
-- swift
-- objective c
+- iOS
+  - Swift
+  - Objective-C
+- ReactNative
 
 ### Webフロント
 
-- react / redux
+- React.js / Redux
 - typescript
 
 
@@ -43,7 +48,7 @@ abeyuyaのプロフィールを紹介するページです。
 
 - 副業なので、平日業務後+土日での稼働となります
   - MAXでも 30時間/週 くらい
-- 依頼内容によりますが、時給3200円以上の料金を想定しています
+- 依頼内容によりますが、時給4000円以上の料金を想定しています
   - 内容を聞いてから見積もりを出して金額を打診します
 - 基本的にはリモートでのやりとりを想定しています
   - 最初のみ対面でのMTGなどは可能です
